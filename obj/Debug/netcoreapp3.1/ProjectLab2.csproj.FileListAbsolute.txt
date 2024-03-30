@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\bin\Debug\netcoreapp3.1\ProjectLab2.exe
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\bin\Debug\netcoreapp3.1\ProjectLab2.deps.json
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\bin\Debug\netcoreapp3.1\ProjectLab2.runtimeconfig.json
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\bin\Debug\netcoreapp3.1\ProjectLab2.runtimeconfig.dev.json
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\bin\Debug\netcoreapp3.1\ProjectLab2.dll
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\bin\Debug\netcoreapp3.1\ProjectLab2.pdb
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.AssemblyInfo.cs
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.dll
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.pdb
+C:\Users\user\source\repos\ProjectLab2\ProjectLab2\obj\Debug\netcoreapp3.1\ProjectLab2.genruntimeconfig.cache
